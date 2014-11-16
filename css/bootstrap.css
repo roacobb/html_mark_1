@@ -6370,7 +6370,7 @@ h1 {
  text-align: center;
  color: #FF7519;
  font-family: 'Oxygen', sans-serif; 
- font-size: 7em; 
+ font-size: 5em; 
  line-height: 1em; 
  margin: 0 auto;
  padding: 0;
@@ -6378,9 +6378,18 @@ h1 {
 
 h2 { 
  text-align: center;
+ font-family: 'Oxygen', sans-se; 
+ color: #333;
+ font-size: 2em; 
+ line-height: 1em; 
+ margin: 0;
+ padding: 0;
+}
+h3 { 
+ text-align: center;
  font-family: 'Bad Script', cursive; 
  color: #FF7519;
- font-size: 1em; 
+ font-size: 1.5em; 
  line-height: 1em; 
  margin: 0;
  padding: 0;
