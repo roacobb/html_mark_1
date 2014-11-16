@@ -4291,8 +4291,8 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color: #222;
-  border-color: #080808;
+  background-color: #FF7519;
+  border-color: #FF7519;
 }
 .navbar-inverse .navbar-brand {
   color: #9d9d9d;
@@ -6383,7 +6383,7 @@ h2 {
  font-size: 2em; 
  line-height: 1em; 
  margin: 0;
- padding: 0;
+ padding: 0 0 14px 0;
 }
 h3 { 
  text-align: center;
@@ -6392,7 +6392,7 @@ h3 {
  font-size: 1.5em; 
  line-height: 1em; 
  margin: 0;
- padding: 0;
+ padding: 0 0 14px 0;
 }
 
 /*BUTTONS: */
@@ -6441,6 +6441,7 @@ color: #FF7519 ;
     text-align: center;
     max-width: 960px;
     margin:0 auto;
+    padding-bottom: 100px;
 }
 
 #about ul{
